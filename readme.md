@@ -119,3 +119,7 @@ The following is a ascii visualization of the exercise file structure, to better
 * [Contextual jQuery](http://events.jquery.org/2010/boston/video/video.php?talk=doug-neiner) video (44:47)
 * [Contextual jQuery - In Practice](https://speakerdeck.com/dougneiner/contextual-jquery-in-practice) slides only 
 * [Contextual jQuery Part 3 - JIT and User Actions](https://www.youtube.com/watch?v=Sx5GJo_14S8) video (35:32)
+
+### Deferreds
+
+* [jQuery Conference SF 2012 I .promise() to show you .when() to use Deferreds by Alex McPherson (video)](https://www.youtube.com/watch?v=juRtEEsHI9E)
